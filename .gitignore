@@ -1,0 +1,3 @@
+HELP.md
+app/target/
+docker/deploy_chatbot.sh
